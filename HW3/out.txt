@@ -1,0 +1,4 @@
+VCD info: dumpfile out.vcd opened for output.
+Starting simulation
+Case Chrisbacher
+a = 10100101,b = 01010101,x = 0

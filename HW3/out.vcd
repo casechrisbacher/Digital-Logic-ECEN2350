@@ -1,0 +1,28 @@
+$date
+	Wed Sep 16 13:56:41 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tbp3 $end
+$var wire 1 ! x $end
+$var reg 8 " a [7:0] $end
+$var reg 8 # b [7:0] $end
+$scope module U1 $end
+$var wire 8 $ a [7:0] $end
+$var wire 8 % b [7:0] $end
+$var wire 1 ! x $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1010101 %
+b10100101 $
+b1010101 #
+b10100101 "
+0!
+$end
